@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ipinfotable" max_length="40" name="x_298602_ipinfo_ipinfotable" type="collection">
+        <element label="city" max_length="40" name="city" type="string"/>
+        <element label="ip addre" max_length="40" name="ip_addre" type="string"/>
+    </element>
+</database>
